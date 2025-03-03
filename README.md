@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Lethau2601
+- 👀 I’m interested in computer science, programming, and developing innovative solutions.
+- 🌱 I’m currently learning advanced algorithms, data structures, and full-stack web development.
+- 💞️ I’m looking to collaborate on open source projects, hackathons, and software development challenges.
+- 📫 How to reach me: You can contact me via khutsolethau@gmail.com
+- ⚡ Fun fact: I love solving complex puzzles and have a knack for finding unique solutions!
